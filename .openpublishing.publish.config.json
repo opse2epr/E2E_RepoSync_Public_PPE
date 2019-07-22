@@ -15,12 +15,26 @@
       },
       "build_entry_point": "docs",
       "template_folder": "_themes"
+    },
+    {
+      "docset_name": "E2E_RepoSync_Private_PPE1",
+      "build_source_folder": "E2E_RepoSync_Private_PPE",
+      "build_output_subfolder": "E2E_RepoSync_Private_PPE1",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
     }
   ],
   "notification_subscribers": [],
   "sync_notification_subscribers": [],
   "branches_to_filter": [],
-  "git_repository_url_open_to_public_contributors": "https://github.com/opse2esa/E2E_RepoSync_Public_PPE",
+  "git_repository_url_open_to_public_contributors": "https://github.com/opse2epr/E2E_RepoSync_Public_PPE",
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
   "contribution_branch_mappings": {},
